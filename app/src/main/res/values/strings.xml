@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Diri</string>
+    <string-array name="daftar_kota">
+    <item>Tangerang</item>
+        <item>Jakarta</item>
+        <item>Serang</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+    </string-array>
+</resources>
+
